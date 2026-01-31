@@ -1,4 +1,4 @@
-# [Sec03-04] Lab#5 - Scrum in Practice (Part I)
+# [Sec03-04] SoftENTeamRepo_Sec3-4
 
 ### รายชื่อสมาชิกกลุ่ม
 | ชื่อ-นามสกุล | รหัสนักศึกษา | GitHub Username |
